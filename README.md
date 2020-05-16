@@ -1,5 +1,5 @@
 ### PRNet for Python 3.x on Windows 10  
-* **ORIGINAL RIPOSITORY: [YadiraF/PRNet](https://github.com/YadiraF/PRNet)**
+* **ORIGINAL REPOSITORY: [YadiraF/PRNet](https://github.com/YadiraF/PRNet)**
 * Add webcam support (`python run_webcam.py --help`).  
 * [Japanese README](README_ja.md)
 
