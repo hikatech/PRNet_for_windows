@@ -24,8 +24,8 @@ GPUはほとんど必須だと思ったほうがいいです。テストはQuadr
 1. リポジトリをClone
 
   ```bash
-  git clone https://github.com/hikatech/PRNet.git
-  cd PRNet
+  git clone https://github.com/hikatech/PRNet_for_windows.git
+  cd PRNet_for_windows
   ```
 
 2. requirementsをインストール

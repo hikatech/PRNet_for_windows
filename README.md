@@ -1,4 +1,5 @@
-### PRNet for Python 3.x on Windows 10.  
+### PRNet for Python 3.x on Windows 10  
+* **ORIGINAL RIPOSITORY: [YadiraF/PRNet](https://github.com/YadiraF/PRNet)** 
 * [Japanese README](README_ja.md)
 
 # Original README
