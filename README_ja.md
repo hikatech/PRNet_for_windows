@@ -42,13 +42,20 @@ GPUはほとんど必須だと思ったほうがいいです。テストはQuadr
 
    `python run_basics.py #Can run only with python and tensorflow`
 
-6. 用意した画像群を処理させる場合（dlib必要）
+6. web camの映像を処理させる場合（dlib必要）
+
+   `python run_webcam.py`
+
+   終了：`q`  
+   詳しくは `python demo.py --help` を参照のこと。
+
+7. 用意した画像群を処理させる場合（dlib必要）
 
    `python demo.py -i <inputDir> -o <outputDir> --isDlib True  `
 
    詳しくは `python demo.py --help` を参照のこと。
 
-7. Texture Editing Appsを起動する場合:
+8. Texture Editing Appsを起動する場合:
 
    `python demo_texture.py -i image_path_1 -r image_path_2 -o output_path   `
 
