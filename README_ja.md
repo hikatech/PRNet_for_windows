@@ -1,4 +1,4 @@
-# PRNet for Python 3.x for Windows
+# PRNet for Python 3.x on Windows
 
 ## ライセンス
 
@@ -47,7 +47,7 @@ GPUはほとんど必須だと思ったほうがいいです。テストはQuadr
    `python run_webcam.py`
 
    終了：`q`  
-   詳しくは `python demo.py --help` を参照のこと。
+   詳しくは `python run_webcam.py --help` を参照のこと。
 
 7. 用意した画像群を処理させる場合（dlib必要）
 
